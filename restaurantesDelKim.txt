@@ -1,5 +1,4 @@
-'lentejo'.
-'carrot'.
-'shaka'.
-'nigga'.
-'almogavar'.
+'el carrot alias zanahorio'.
+'el shaka alias el waka'.
+'la braseria alias el nigga'.
+'el almogavar alias almo'.
